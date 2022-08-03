@@ -10,3 +10,15 @@ C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Models\ob
 C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Models\obj\Debug\net6.0\refint\BlazorStore_Models.dll
 C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Models\obj\Debug\net6.0\BlazorStore_Models.pdb
 C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Models\obj\Debug\net6.0\ref\BlazorStore_Models.dll
+C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Models\bin\Debug\net6.0\BlazorStore_Models.deps.json
+C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Models\bin\Debug\net6.0\BlazorStore_Models.dll
+C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Models\bin\Debug\net6.0\BlazorStore_Models.pdb
+C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Models\obj\Debug\net6.0\BlazorStore_Models.csproj.AssemblyReference.cache
+C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Models\obj\Debug\net6.0\BlazorStore_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Models\obj\Debug\net6.0\BlazorStore_Models.AssemblyInfoInputs.cache
+C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Models\obj\Debug\net6.0\BlazorStore_Models.AssemblyInfo.cs
+C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Models\obj\Debug\net6.0\BlazorStore_Models.csproj.CoreCompileInputs.cache
+C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Models\obj\Debug\net6.0\BlazorStore_Models.dll
+C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Models\obj\Debug\net6.0\refint\BlazorStore_Models.dll
+C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Models\obj\Debug\net6.0\BlazorStore_Models.pdb
+C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Models\obj\Debug\net6.0\ref\BlazorStore_Models.dll
