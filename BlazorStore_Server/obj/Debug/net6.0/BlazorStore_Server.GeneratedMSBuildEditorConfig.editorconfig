@@ -43,6 +43,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFybkNvbXBvXF9FZGl0RGVsZXRlQnV0dG9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_IndividualProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFybkNvbXBvXF9JbmRpdmlkdWFsUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
