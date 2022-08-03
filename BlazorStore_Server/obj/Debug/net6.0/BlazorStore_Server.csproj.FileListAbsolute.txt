@@ -25,3 +25,6 @@ C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Server\ob
 C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Server\obj\Debug\net6.0\BlazorStore_Server.pdb
 C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Server\obj\Debug\net6.0\BlazorStore_Server.genruntimeconfig.cache
 C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Server\obj\Debug\net6.0\ref\BlazorStore_Server.dll
+C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Server\bin\Debug\net6.0\BlazorStore_Models.dll
+C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Server\bin\Debug\net6.0\BlazorStore_Models.pdb
+C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Server\obj\Debug\net6.0\BlazorStore_Server.csproj.CopyComplete

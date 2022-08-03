@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "BlazorStore_Models/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/BlazorStore_Models.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BlazorStore_Models.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "BlazorStore_Models/1.0.0": {
-      "type": "project",
-      "path": "../BlazorStore_Models/BlazorStore_Models.csproj",
-      "msbuildProject": "../BlazorStore_Models/BlazorStore_Models.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "BlazorStore_Models >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\JossicLapierre\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazorStore_Server\\BlazorStore_Server.csproj",
-      "projectName": "BlazorStore_Server",
-      "projectPath": "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazorStore_Server\\BlazorStore_Server.csproj",
+      "projectUniqueName": "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazorStore_Models\\BlazorStore_Models.csproj",
+      "projectName": "BlazorStore_Models",
+      "projectPath": "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazorStore_Models\\BlazorStore_Models.csproj",
       "packagesPath": "C:\\Users\\JossicLapierre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazorStore_Server\\obj\\",
+      "outputPath": "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazorStore_Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,11 +38,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazorStore_Models\\BlazorStore_Models.csproj": {
-              "projectPath": "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazorStore_Models\\BlazorStore_Models.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -84,9 +61,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorStore_Server", "Blazo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorStore_Client", "BlazorStore_Client\BlazorStore_Client.csproj", "{5A5D3977-EF28-4F30-A9E0-45766D2E7D56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorStore_Models", "BlazorStore_Models\BlazorStore_Models.csproj", "{26B4A3CE-198D-4504-B03C-8F96C2D841B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5A5D3977-EF28-4F30-A9E0-45766D2E7D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A5D3977-EF28-4F30-A9E0-45766D2E7D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A5D3977-EF28-4F30-A9E0-45766D2E7D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26B4A3CE-198D-4504-B03C-8F96C2D841B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B4A3CE-198D-4504-B03C-8F96C2D841B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B4A3CE-198D-4504-B03C-8F96C2D841B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B4A3CE-198D-4504-B03C-8F96C2D841B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

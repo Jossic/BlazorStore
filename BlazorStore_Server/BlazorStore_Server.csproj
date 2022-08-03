@@ -13,4 +13,8 @@
       <None Remove="Pages\NewFolder\**" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\BlazorStore_Models\BlazorStore_Models.csproj" />
+    </ItemGroup>
+
 </Project>
