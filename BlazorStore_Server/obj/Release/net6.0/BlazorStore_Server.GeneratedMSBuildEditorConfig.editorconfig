@@ -39,12 +39,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxEZW1vUHJvZHVjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_AnotherChildConponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFybkNvbXBvXF9Bbm90aGVyQ2hpbGRDb25wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_ChildComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFybkNvbXBvXF9DaGlsZENvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_EditDeleteButton.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFybkNvbXBvXF9FZGl0RGVsZXRlQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_GrandChildConponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFybkNvbXBvXF9HcmFuZENoaWxkQ29ucG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_IndividualProduct.razor]
