@@ -59,6 +59,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFybkNvbXBvXF9JbmRpdmlkdWFsUHJvZHVjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnRouting.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFyblJvdXRpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/ParentComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxQYXJlbnRDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

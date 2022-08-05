@@ -11,12 +11,10 @@
     }
     <button class="btn btn-danger" @onclick="OnButtonClick">My Button</button>
     
-    <_GrandChildConponent MessageForGrandChild="@MessageForGrandChild" />
+    <_GrandChildConponent  />
 </div>
 @code {
-    [Parameter]
-    public string MessageForGrandChild { get; set; }
-
+    
     [Parameter]
     public string Title { get; set; }
 

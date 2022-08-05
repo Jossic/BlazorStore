@@ -1,11 +1,15 @@
 ﻿@page "/learnBlazor/parentComponent"
 
 <h3>Parent Child Relation</h3>
+<CascadingValue Value="@MessageForGrandChild" Name="message">
+<CascadingValue Value="@LuckyNumber" Name="lucky">
 
-<_ChildComponent OnButtonClick="ShowMessage" Title="Teeeeeeeeeeeeeeeest" MessageForGrandChild="test"> 
+<_ChildComponent OnButtonClick="ShowMessage" Title="Teeeeeeeeeeeeeeeest"> 
     <ChildContent>Somme children content</ChildContent>    
     <DangerChildContent>Danger content</DangerChildContent>
 </_ChildComponent>
+</CascadingValue>
+</CascadingValue>
 
 <p><b>@messageText</b></p>
 <_AnotherChildConponent placeholder="A super placeholder"></_AnotherChildConponent>
@@ -13,6 +17,8 @@
 @*<_ChildComponent OnButtonClick="ShowMessage" Title="Teeeeeeeeeeeeeeeest"/>*@
 
 @code {
+    public string MessageForGrandChild = "New message for testing";
+    public string LuckyNumber = "7";
 
         public Dictionary<string, object> InputAttributesParents { get; set; } = new Dictionary<string, object>()
     {
