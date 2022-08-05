@@ -2,8 +2,19 @@
 
 <h3>Parent Child Relation</h3>
 
-<_ChildComponent Title="Teeeeeeeeeeeeeeeest"> Somme children content </_ChildComponent>
+<_ChildComponent OnButtonClick="ShowMessage" Title="Teeeeeeeeeeeeeeeest"> 
+    <ChildContent>Somme children content</ChildContent>    
+    <DangerChildContent>Danger content</DangerChildContent>
+</_ChildComponent>
+
+<p><b>@messageText</b></p>
+
+@*<_ChildComponent OnButtonClick="ShowMessage" Title="Teeeeeeeeeeeeeeeest"/>*@
 
 @code {
-
+    public string messageText = "";
+    private void ShowMessage()
+    {
+        messageText = "Button clicked from Child component";
+    }
 }
