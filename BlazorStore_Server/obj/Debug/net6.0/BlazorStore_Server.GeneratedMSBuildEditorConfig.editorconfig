@@ -63,12 +63,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFybkNvbXBvXF9JbmRpdmlkdWFsUHJvZHVjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_LifeCycleChild.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFybkNvbXBvXF9MaWZlQ3ljbGVDaGlsZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnRouting.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFyblJvdXRpbmcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/LearnRazor/ParentComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxQYXJlbnRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/LifeCycle.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlmZUN5Y2xlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Shared/SurveyPrompt.razor]

@@ -4,7 +4,7 @@
 <CascadingValue Value="@MessageForGrandChild" Name="message">
 <CascadingValue Value="@LuckyNumber" Name="lucky">
 
-<_ChildComponent OnButtonClick="ShowMessage" Title="Teeeeeeeeeeeeeeeest"> 
+<_ChildComponent @ref="childComp" OnButtonClick="ShowMessage" Title="Teeeeeeeeeeeeeeeest"> 
     <ChildContent>Somme children content</ChildContent>    
     <DangerChildContent>Danger content</DangerChildContent>
 </_ChildComponent>
@@ -14,9 +14,15 @@
 <p><b>@messageText</b></p>
 <_AnotherChildConponent placeholder="A super placeholder"></_AnotherChildConponent>
 
+<div class="row">
+    <button class="btn btn-success" @onclick="()=>childComp.ToastrSuccess()">Show Alert</button>
+</div>
+
 @*<_ChildComponent OnButtonClick="ShowMessage" Title="Teeeeeeeeeeeeeeeest"/>*@
 
 @code {
+    private _ChildComponent childComp;
+
     public string MessageForGrandChild = "New message for testing";
     public string LuckyNumber = "7";
 
