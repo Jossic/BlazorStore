@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MmtdNn14xlaWWTVm9nAIpQuM8oLlH/pvC+VLGhrDi35BbjCUmM5DNh5fx3EaYo9nK12hGf+81xourVFvCZAiwg==",
+  "dgSpecHash": "SyOrsm/fmOlKoVmcJerJOMIsJY2aNND+xzMDMHdn0L7NLBBtKEu3g2QbVZujuBlAyszY0VheuMztAof4qY93Aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazorStore_Server\\BlazorStore_Server.csproj",
+  "projectFilePath": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazorStore_Server\\BlazorStore_Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

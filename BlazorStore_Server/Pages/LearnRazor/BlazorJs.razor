@@ -14,8 +14,8 @@
 <br />
 
 <div class="row">
-    <button class="btn btn-success" @onclick="ToastrSuccess">Alert success</button>
-    <button class="btn btn-danger" @onclick="ToastrFailure">Alert Error</button>
+    <button class="btn btn-success" @onclick="AlertSuccess">Alert success</button>
+    <button class="btn btn-danger" @onclick="AlertFailure">Alert Error</button>
 </div>
 
 <div class="row">
@@ -45,5 +45,15 @@
        private async Task ToastrFailure()
     {
       await _JsRuntime.ToastrError("Operation Failure");
+    }
+
+    private async Task AlertSuccess()
+    {
+      await _JsRuntime.AlertSuccess("Operation Failure");
+    }
+
+    private async Task AlertFailure()
+    {
+      await _JsRuntime.AlertError("Operation Failure");
     }
 }
