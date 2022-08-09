@@ -8,101 +8,101 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorStore_Server
 build_property.RootNamespace = BlazorStore_Server
-build_property.ProjectDir = C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Server\
+build_property.ProjectDir = C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Server\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Server
+build_property.MSBuildProjectDirectory = C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Server
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/App.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/Counter.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/FetchData.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/Index.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/BindProp.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/LearnRazor/BindProp.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxCaW5kUHJvcC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/BlazorJs.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/LearnRazor/BlazorJs.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxCbGF6b3JKcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/DemoProduct.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/LearnRazor/DemoProduct.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxEZW1vUHJvZHVjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_AnotherChildConponent.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_AnotherChildConponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFybkNvbXBvXF9Bbm90aGVyQ2hpbGRDb25wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_ChildComponent.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_ChildComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFybkNvbXBvXF9DaGlsZENvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_EditDeleteButton.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_EditDeleteButton.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFybkNvbXBvXF9FZGl0RGVsZXRlQnV0dG9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_GrandChildConponent.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_GrandChildConponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFybkNvbXBvXF9HcmFuZENoaWxkQ29ucG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_IndividualProduct.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_IndividualProduct.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFybkNvbXBvXF9JbmRpdmlkdWFsUHJvZHVjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_LifeCycleChild.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnCompo/_LifeCycleChild.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFybkNvbXBvXF9MaWZlQ3ljbGVDaGlsZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnRouting.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/LearnRazor/LearnRouting.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxMZWFyblJvdXRpbmcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LearnRazor/ParentComponent.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/LearnRazor/ParentComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm5SYXpvclxQYXJlbnRDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/LifeCycle.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/LifeCycle.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlmZUN5Y2xlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Shared/SurveyPrompt.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/_Imports.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Shared/MainLayout.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-e3jk1372r4
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Shared/NavMenu.razor]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-zrno8vukjk
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/Error.cshtml]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/_Host.cshtml]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/JossicLapierre/RiderProjects/Training/BlazorStore/BlazorStore_Server/Pages/_Layout.cshtml]
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
