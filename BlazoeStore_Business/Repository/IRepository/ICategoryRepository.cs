@@ -9,6 +9,10 @@ namespace BlazoeStore_Business.Repository.IRepository
 {
     public interface ICategoryRepository
     {
-        public Create(CategoryDto objDto)
+        public CategoryDto Create(CategoryDto objDto);
+        public CategoryDto Update(CategoryDto objDto);
+        public int Delete(int id);
+        public CategoryDto GetById(int id);
+        public IEnumerable<CategoryDto> GetAll();
     }
 }
