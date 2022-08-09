@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\BlazorStore_DataAccess\BlazorStore_DataAccess.csproj" />
     <ProjectReference Include="..\BlazorStore_Models\BlazorStore_Models.csproj" />
   </ItemGroup>

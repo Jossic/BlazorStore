@@ -7,10 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Compile Remove="Pages\NewFolder\**" />
-      <Content Remove="Pages\NewFolder\**" />
-      <EmbeddedResource Remove="Pages\NewFolder\**" />
-      <None Remove="Pages\NewFolder\**" />
+      <Content Remove="Pages\Category\CategoryList.razor" />
     </ItemGroup>
 
     <ItemGroup>
@@ -26,6 +23,18 @@
       <ProjectReference Include="..\BlazoeStore_Business\BlazoeStore_Business.csproj" />
       <ProjectReference Include="..\BlazorStore_DataAccess\BlazorStore_DataAccess.csproj" />
       <ProjectReference Include="..\BlazorStore_Models\BlazorStore_Models.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <UpToDateCheckInput Remove="Pages\Category\CategoryList.razor" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Pages\Category\CategoryList.razor" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Include="Pages\Category\CategoryList.razor" />
     </ItemGroup>
 
 </Project>
