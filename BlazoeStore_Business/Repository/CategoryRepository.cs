@@ -25,6 +25,7 @@ namespace BlazoeStore_Business.Repository
         public CategoryDto Create(CategoryDto objDto)
         {
             var obj = _mapper.Map<CategoryDto, Category>(objDto);
+            obj.CreatedDate = DateTime.Now;
             var addedObj = _db.Categories.Add(obj);
             _db.SaveChanges();
 
@@ -33,22 +34,30 @@ namespace BlazoeStore_Business.Repository
 
         public int Delete(int id)
         {
-            throw new NotImplementedException();
+            var obj = _db.Categories.FirstOrDefault(x => x.Id == id);
+            if (obj == null) return 0;
+            _db.Categories.Remove(obj);
+            return _db.SaveChanges();
         }
 
-        public IEnumerable<CategoryDto> GetAll()
-        {
-            throw new NotImplementedException();
-        }
+        public IEnumerable<CategoryDto> GetAll() => _mapper.Map<IEnumerable<Category>, IEnumerable<CategoryDto>>(_db.Categories);
 
         public CategoryDto GetById(int id)
         {
-            throw new NotImplementedException();
+            var obj = _db.Categories.FirstOrDefault(x => x.Id == id);
+            if (obj == null) return new CategoryDto();
+            return _mapper.Map<Category, CategoryDto>(obj);
         }
 
         public CategoryDto Update(CategoryDto objDto)
         {
-            throw new NotImplementedException();
+            var objFromDb = _db.Categories.FirstOrDefault(x => x.Id == objDto.Id);
+            if (objFromDb == null) return objDto;
+            objFromDb.Name= objDto.Name;
+            _db.Categories.Update(objFromDb);
+            _db.SaveChanges();
+            return _mapper.Map<Category, CategoryDto>(objFromDb);
+
         }
     }
 }

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ge8EQPffPt1w+FY5e39RWgdybh/88dkyQQloxJVb1ZWZKKsNiiY2pNBwyH28NIWdLqorqCtDV6gky80B7Kvd9A==",
+  "dgSpecHash": "go8tKDcv4ip59Pm3iChvtQmnHdg40AojIL2sNs8UIv2cHWBfMrSN7KIXtmwkHZ1jEkdH8MHi9UCOPvcqANUfqw==",
   "success": true,
   "projectFilePath": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazorStore_Server\\BlazorStore_Server.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jossi\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\jossi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\jossi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\jossi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jossi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
