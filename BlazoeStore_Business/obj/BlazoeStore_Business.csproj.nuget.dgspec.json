@@ -1,27 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazoeStore_Business\\BlazoeStore_Business.csproj": {}
+    "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazoeStore_Business\\BlazoeStore_Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazoeStore_Business\\BlazoeStore_Business.csproj": {
+    "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazoeStore_Business\\BlazoeStore_Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazoeStore_Business\\BlazoeStore_Business.csproj",
+        "projectUniqueName": "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazoeStore_Business\\BlazoeStore_Business.csproj",
         "projectName": "BlazoeStore_Business",
-        "projectPath": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazoeStore_Business\\BlazoeStore_Business.csproj",
-        "packagesPath": "C:\\Users\\jossi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazoeStore_Business\\obj\\",
+        "projectPath": "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazoeStore_Business\\BlazoeStore_Business.csproj",
+        "packagesPath": "C:\\Users\\JossicLapierre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazoeStore_Business\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jossi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JossicLapierre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
