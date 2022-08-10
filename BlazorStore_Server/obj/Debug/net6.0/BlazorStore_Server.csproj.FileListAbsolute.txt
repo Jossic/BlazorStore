@@ -134,3 +134,7 @@ C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Server\
 C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Server\obj\Debug\net6.0\BlazorStore_Server.pdb
 C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Server\obj\Debug\net6.0\BlazorStore_Server.genruntimeconfig.cache
 C:\Users\jossi\Dropbox\JOSSIC\6-development\Devs\BlazorStore\BlazorStore_Server\obj\Debug\net6.0\ref\BlazorStore_Server.dll
+C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Server\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Server\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Server\bin\Debug\net6.0\BlazoeStore_Business.dll
+C:\Users\JossicLapierre\RiderProjects\Training\BlazorStore\BlazorStore_Server\bin\Debug\net6.0\BlazoeStore_Business.pdb

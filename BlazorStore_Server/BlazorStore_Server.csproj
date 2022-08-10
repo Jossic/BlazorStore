@@ -7,10 +7,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Content Remove="Pages\Category\CategoryList.razor" />
-    </ItemGroup>
-
-    <ItemGroup>
       <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
       <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.7">
         <PrivateAssets>all</PrivateAssets>
@@ -23,14 +19,6 @@
       <ProjectReference Include="..\BlazoeStore_Business\BlazoeStore_Business.csproj" />
       <ProjectReference Include="..\BlazorStore_DataAccess\BlazorStore_DataAccess.csproj" />
       <ProjectReference Include="..\BlazorStore_Models\BlazorStore_Models.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <UpToDateCheckInput Remove="Pages\Category\CategoryList.razor" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <_ContentIncludedByDefault Remove="Pages\Category\CategoryList.razor" />
     </ItemGroup>
 
     <ItemGroup>
