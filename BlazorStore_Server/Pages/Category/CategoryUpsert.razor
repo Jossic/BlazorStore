@@ -3,11 +3,18 @@
 <div class="row my-2">
     <h3 class="card-title text-primary mb-3 ml-3">@Title Category</h3>
 
-    <div class="col-12">
-        <EditForm Model="Category">
+    <div class="col-10">
+        <EditForm Model="Category" OnValidSubmit="UpsertCategory">
+            <DataAnnotationsValidator />
+            @*<ValidationSummary />*@
             <div class="form-group">
                 <label>Name</label>
                 <InputText @bind-Value="Category.Name" class="form-control" />
+                <ValidationMessage For="()=>Category.Name" />
+            </div>
+             <div class="form-group py-2">
+             <button class="btn btn-primary">@Title</button>
+             <NavLink href="/category" class="btn btn-secondary">Back to Index</NavLink>
             </div>
         </EditForm>
     </div>
@@ -15,4 +22,9 @@
 @code {
     private CategoryDto Category { get; set; } = new CategoryDto();
     private string Title { get; set; } = "Create";
+
+    private void UpsertCategory()
+    {
+        Category.Name = "Button clicked"; 
+    }
 }
