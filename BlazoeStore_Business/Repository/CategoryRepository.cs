@@ -3,6 +3,7 @@ using BlazoeStore_Business.Repository.IRepository;
 using BlazorStore_DataAccess;
 using BlazorStore_DataAccess.Data;
 using BlazorStore_Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,40 +23,40 @@ namespace BlazoeStore_Business.Repository
             _mapper = mapper;
         }
 
-        public CategoryDto Create(CategoryDto objDto)
+        public async Task<CategoryDto> Create(CategoryDto objDto)
         {
             var obj = _mapper.Map<CategoryDto, Category>(objDto);
             obj.CreatedDate = DateTime.Now;
             var addedObj = _db.Categories.Add(obj);
-            _db.SaveChanges();
+            await _db.SaveChangesAsync();
 
             return _mapper.Map<Category, CategoryDto>(addedObj.Entity);
         }
 
-        public int Delete(int id)
+        public async Task<int> Delete(int id)
         {
-            var obj = _db.Categories.FirstOrDefault(x => x.Id == id);
+            var obj = await _db.Categories.FirstOrDefaultAsync(x => x.Id == id);
             if (obj == null) return 0;
             _db.Categories.Remove(obj);
-            return _db.SaveChanges();
+            return await _db.SaveChangesAsync();
         }
 
-        public IEnumerable<CategoryDto> GetAll() => _mapper.Map<IEnumerable<Category>, IEnumerable<CategoryDto>>(_db.Categories);
+        public async Task<IEnumerable<CategoryDto>> GetAll() => _mapper.Map<IEnumerable<Category>, IEnumerable<CategoryDto>>(_db.Categories);
 
-        public CategoryDto GetById(int id)
+        public async Task<CategoryDto> GetById(int id)
         {
             var obj = _db.Categories.FirstOrDefault(x => x.Id == id);
             if (obj == null) return new CategoryDto();
             return _mapper.Map<Category, CategoryDto>(obj);
         }
 
-        public CategoryDto Update(CategoryDto objDto)
+        public async Task<CategoryDto> Update(CategoryDto objDto)
         {
-            var objFromDb = _db.Categories.FirstOrDefault(x => x.Id == objDto.Id);
+            var objFromDb = await _db.Categories.FirstOrDefaultAsync(x => x.Id == objDto.Id);
             if (objFromDb == null) return objDto;
             objFromDb.Name= objDto.Name;
             _db.Categories.Update(objFromDb);
-            _db.SaveChanges();
+            await _db.SaveChangesAsync();
             return _mapper.Map<Category, CategoryDto>(objFromDb);
 
         }
