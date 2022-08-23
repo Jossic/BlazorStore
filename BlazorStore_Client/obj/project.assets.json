@@ -1546,32 +1546,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JossicLapierre\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\jossi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazorStore_Client\\BlazorStore_Client.csproj",
+      "projectUniqueName": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazorStore_Client\\BlazorStore_Client.csproj",
       "projectName": "BlazorStore_Client",
-      "projectPath": "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazorStore_Client\\BlazorStore_Client.csproj",
-      "packagesPath": "C:\\Users\\JossicLapierre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JossicLapierre\\RiderProjects\\Training\\BlazorStore\\BlazorStore_Client\\obj\\",
+      "projectPath": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazorStore_Client\\BlazorStore_Client.csproj",
+      "packagesPath": "C:\\Users\\jossi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazorStore_Client\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\JossicLapierre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\jossi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "net6.0": {
@@ -1612,7 +1606,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-            "version": "[6.0.8, 6.0.8]"
+            "version": "[6.0.7, 6.0.7]"
           }
         ],
         "frameworkReferences": {
@@ -1620,7 +1614,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

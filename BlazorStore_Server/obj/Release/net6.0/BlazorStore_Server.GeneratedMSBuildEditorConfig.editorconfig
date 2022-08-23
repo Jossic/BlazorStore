@@ -19,6 +19,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/Category/CategoryList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ2F0ZWdvcnlMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Pages/Category/CategoryUpsert.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ2F0ZWdvcnlVcHNlcnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -85,6 +89,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/Shared/_DeleteConfirmation.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9EZWxldGVDb25maXJtYXRpb24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jossi/Dropbox/JOSSIC/6-development/Devs/BlazorStore/BlazorStore_Server/_Imports.razor]
