@@ -89,7 +89,7 @@
         {
             await _categoryRepository.Delete(DeleteCategoryId);
             await LoadCategories();
-            await .InvokeVoidAsync("HideDeleteConfirmModal");
+            await _jsRuntime.InvokeVoidAsync("HideDeleteConfirmModal");
         }
         IsLoading = false;
     }
