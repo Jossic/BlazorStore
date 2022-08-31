@@ -40,11 +40,11 @@ namespace BlazoeStore_Business.Repository
             return await _db.SaveChangesAsync();
         }
 
-        public async Task<IEnumerable<ProductDto>> GetAll() => _mapper.Map<IEnumerable<Product>, IEnumerable<ProductDto>>(_db.Products);
+        public async Task<IEnumerable<ProductDto>> GetAll() => _mapper.Map<IEnumerable<Product>, IEnumerable<ProductDto>>(_db.Products.Include(prod => prod.Category));
 
         public async Task<ProductDto> GetById(int id)
         {
-            var obj = _db.Products.FirstOrDefault(x => x.Id == id);
+            var obj = _db.Products.Include(prod => prod.Category).FirstOrDefault(x => x.Id == id);
             if (obj == null) return new ProductDto();
             return _mapper.Map<Product, ProductDto>(obj);
         }

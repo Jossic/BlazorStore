@@ -7,6 +7,10 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <Content Remove="Pages\Product\ProductList.razor" />
+    </ItemGroup>
+
+    <ItemGroup>
       <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
       <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.7">
         <PrivateAssets>all</PrivateAssets>
@@ -22,6 +26,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <None Include="Pages\Product\ProductList.razor" />
       <None Include="Pages\Category\CategoryList.razor" />
     </ItemGroup>
 
