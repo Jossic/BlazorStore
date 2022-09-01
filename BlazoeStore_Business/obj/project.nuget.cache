@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jWCwj1jX6lAxbM+wAsOWQZVPcYJGbueOVWh5lekLkWWhbbvCTF5l7mAOIOVCpk5j28f0HNB90sgTRjaja1ZfAA==",
+  "dgSpecHash": "G7VfiHT/7gxWeagY73xo4fzNm7Q0siutKq9XMqpOzrjLAN0t/AoR3jWJAyfQf+Pw6LQ0uJFSIRoFwn3Z0LcoJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazoeStore_Business\\BlazoeStore_Business.csproj",
+  "projectFilePath": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazoeStore_Business\\BlazorStore_Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jossi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\jossi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -648,7 +648,7 @@
           }
         }
       },
-      "BlazoeStore_Business/1.0.0": {
+      "BlazorStore_Business/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -657,10 +657,10 @@
           "BlazorStore_Models": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/BlazoeStore_Business.dll": {}
+          "bin/placeholder/BlazorStore_Business.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BlazoeStore_Business.dll": {}
+          "bin/placeholder/BlazorStore_Business.dll": {}
         }
       },
       "BlazorStore_DataAccess/1.0.0": {
@@ -1914,10 +1914,10 @@
         "version.txt"
       ]
     },
-    "BlazoeStore_Business/1.0.0": {
+    "BlazorStore_Business/1.0.0": {
       "type": "project",
-      "path": "../BlazoeStore_Business/BlazoeStore_Business.csproj",
-      "msbuildProject": "../BlazoeStore_Business/BlazoeStore_Business.csproj"
+      "path": "../BlazoeStore_Business/BlazorStore_Business.csproj",
+      "msbuildProject": "../BlazoeStore_Business/BlazorStore_Business.csproj"
     },
     "BlazorStore_DataAccess/1.0.0": {
       "type": "project",
@@ -1933,7 +1933,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 11.0.0",
-      "BlazoeStore_Business >= 1.0.0",
+      "BlazorStore_Business >= 1.0.0",
       "BlazorStore_DataAccess >= 1.0.0",
       "BlazorStore_Models >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.7",
@@ -1966,8 +1966,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazoeStore_Business\\BlazoeStore_Business.csproj": {
-              "projectPath": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazoeStore_Business\\BlazoeStore_Business.csproj"
+            "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazoeStore_Business\\BlazorStore_Business.csproj": {
+              "projectPath": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazoeStore_Business\\BlazorStore_Business.csproj"
             },
             "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazorStore_DataAccess\\BlazorStore_DataAccess.csproj": {
               "projectPath": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazorStore_DataAccess\\BlazorStore_DataAccess.csproj"

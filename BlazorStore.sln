@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorStore_Client", "Blazo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorStore_Models", "BlazorStore_Models\BlazorStore_Models.csproj", "{26B4A3CE-198D-4504-B03C-8F96C2D841B4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazoeStore_Business", "BlazoeStore_Business\BlazoeStore_Business.csproj", "{1A0A2352-946C-42D6-BA0E-FD6CFD59CBF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorStore_Business", "BlazoeStore_Business\BlazorStore_Business.csproj", "{1A0A2352-946C-42D6-BA0E-FD6CFD59CBF0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorStore_Common", "BlazorStore_Common\BlazorStore_Common.csproj", "{051C3055-9883-4B57-B971-BB7F6D0543BF}"
 EndProject

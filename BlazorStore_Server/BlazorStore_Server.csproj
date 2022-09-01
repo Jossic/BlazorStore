@@ -20,7 +20,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\BlazoeStore_Business\BlazoeStore_Business.csproj" />
+      <ProjectReference Include="..\BlazoeStore_Business\BlazorStore_Business.csproj" />
       <ProjectReference Include="..\BlazorStore_DataAccess\BlazorStore_DataAccess.csproj" />
       <ProjectReference Include="..\BlazorStore_Models\BlazorStore_Models.csproj" />
     </ItemGroup>

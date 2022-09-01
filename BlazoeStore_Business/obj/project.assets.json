@@ -1840,9 +1840,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazoeStore_Business\\BlazoeStore_Business.csproj",
-      "projectName": "BlazoeStore_Business",
-      "projectPath": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazoeStore_Business\\BlazoeStore_Business.csproj",
+      "projectUniqueName": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazoeStore_Business\\BlazorStore_Business.csproj",
+      "projectName": "BlazorStore_Business",
+      "projectPath": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazoeStore_Business\\BlazorStore_Business.csproj",
       "packagesPath": "C:\\Users\\jossi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jossi\\Dropbox\\JOSSIC\\6-development\\Devs\\BlazorStore\\BlazoeStore_Business\\obj\\",
       "projectStyle": "PackageReference",
