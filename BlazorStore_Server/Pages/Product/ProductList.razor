@@ -41,10 +41,11 @@
                                 @prod.Category.Name
                             </td>
                             <td>
-                            <NavLink href="@($"product/edit/{prod.Id}")" class="btn btn-primary">Edit</NavLink>
-                            <button class="btn btn-danger" @onclick="()=>HandleDelete(prod.Id)">Delete</button>
+
+                                <NavLink href="@($"product/edit/{prod.Id}")" class="btn btn-primary">Edit</NavLink>
+                                <button class="btn btn-danger" @onclick="()=>HandleDelete(prod.Id)">Delete</button>
                             </td>
-                        </tr>
+                            </tr>
                     }
                 </tbody>
             </table>
